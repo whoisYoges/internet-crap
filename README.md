@@ -15,11 +15,11 @@ Don't forget to take a backup  of your original host file before replacing it.
 ### Windows 
 locate your hosts file at: `%SystemRoot%\system32\drivers\etc\hosts` and replace it [with the hosts file linked here](hosts).
 ### Linux
-Locate your hosts firl at: `/etc/hosts` and replace it [with the hosts file linked here](hosts).
+Locate your hosts file at: `/etc/hosts` and replace it [with the hosts file linked here](hosts).
 ### macOS (until 10.14.x macOS Mojave)
-Locate your hosts firl at: `/etc/hosts` and replace it [with the hosts file linked here](hosts).
+Locate your hosts file at: `/etc/hosts` and replace it [with the hosts file linked here](hosts).
 ### macOS Catalina
-Locate your hosts firl at: `/private/etc/hosts` and replace it [with the hosts file linked here](hosts).
+Locate your hosts file at: `/private/etc/hosts` and replace it [with the hosts file linked here](hosts).
 
 ### How to add more websites in block list?
 	1. Identify the website you want to block in your system. For example: example.xyz
