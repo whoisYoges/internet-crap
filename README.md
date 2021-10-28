@@ -21,6 +21,9 @@ Locate your hosts file at: `/etc/hosts` and replace it [with the hosts file link
 ### macOS Catalina
 Locate your hosts file at: `/private/etc/hosts` and replace it [with the hosts file linked here](hosts).
 
+### Preview [hosts](https://raw.githubusercontent.com/YogeshLamichhane/internet-crap/main/hosts)
+#### Check what's there in hosts file [here](https://raw.githubusercontent.com/YogeshLamichhane/internet-crap/main/hosts). Cause the file is too large to show the preview directly.
+
 ### How to add more websites in block list?
 	1. Identify the website you want to block in your system. For example: example.xyz
 	2. Open your hosts file in your computer and append the following:
