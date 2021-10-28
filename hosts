@@ -11,8 +11,8 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
 
+0.0.0.0 0.0.0.0
 0.0.0.0 0.0.0.0.beeglivesex.com
 0.0.0.0 0.0.0.0.creative.hpyrdr.com
 0.0.0.0 0.0.0.0.hpyrdr.com
@@ -29145,6 +29145,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 deviantclip.com
 0.0.0.0 deviantfemale.tumblr.com
 0.0.0.0 deviantkade.tumblr.com
+0.0.0.0 deviants.com
 0.0.0.0 deviants-despository.booru.org
 0.0.0.0 device.4seeresults.com
 0.0.0.0 device-api.urbanairship.com
@@ -43945,6 +43946,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 httpbooking.pl-id53061369.xyz
 0.0.0.0 httpbooking.pl-id65592797.xyz
 0.0.0.0 httpkafka.unityads.unity3d.com
+0.0.0.0 http://largetube.com
 0.0.0.0 httpmyetherwallet.com
 0.0.0.0 http-olx.pl
 0.0.0.0 http-olx-pl.site
@@ -43954,8 +43956,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 httpsbooking.pl-id50073848.xyz
 0.0.0.0 httpsbooking.pl-id65592797.xyz
 0.0.0.0 httpsbooking.pl-id68141274.xyz
+0.0.0.0 https://largetube.com
 0.0.0.0 https-olx.pl
+0.0.0.0 https://www.largetube.com
 0.0.0.0 httpwwwadserver.com
+0.0.0.0 http://www.largetube.com
 0.0.0.0 ht.tube8.com
 0.0.0.0 htvncdn.net
 0.0.0.0 ht.xtube.com
@@ -51082,6 +51087,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 large-porn-tube.pro
 0.0.0.0 largetfar.ga
 0.0.0.0 largetfarge.ml
+0.0.0.0 largetube.com
 0.0.0.0 largosoft.co.kr
 0.0.0.0 larimernews.com
 0.0.0.0 larissalinhares.com.br
