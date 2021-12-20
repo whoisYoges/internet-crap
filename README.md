@@ -3,7 +3,7 @@
 block most of internet crap (fakenews, gambling, malware, adware and porn)
 
 ### What is internet-crap
-It's a [hosts](hosts) file located in specific directory/folder in your operating system that replaces huge number of fakenews, gambling, malware, adware and porn sites/providers with a non-routable meta-address used to designate an invalid.
+It's a file or collection of files located in specific directory/folder in your operating system that replaces huge number of fakenews, gambling, malware, adware and porn sites/providers with a non-routable meta-address used to designate an invalid.
 
 ### *Source and Inspiration: [StevenBlack's hosts](https://github.com/StevenBlack/hosts)*
 ### How does it work
@@ -16,6 +16,8 @@ Don't forget to take a backup  of your original host file before replacing it.
 locate your hosts file at: `%SystemRoot%\system32\drivers\etc\hosts` and replace it [with the hosts file linked here](hosts).
 ### Linux
 Locate your hosts file at: `/etc/hosts` and replace it [with the hosts file linked here](hosts).
+
+Replace your `/etc/resolv.conf` file with the [`resolv.conf` file here](resolv.conf) which is a write protected file containg family protection dns servers of adguard.
 ### macOS (until 10.14.x macOS Mojave)
 Locate your hosts file at: `/etc/hosts` and replace it [with the hosts file linked here](hosts).
 ### macOS Catalina
